@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="712097a2-31e3-4db3-b087-c4a648dbab5b" solutionId="712097a2-31e3-4db3-b087-c4a648dbab5b" resetWebServer="false" sharePointProductVersion="15.0" name="Avoid" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="6e2f0057-124d-4e08-85e1-53e59ce8f9b1" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="7e61e962-d1c9-4528-a667-608b2131d1ad" />
+  </projectItems>
+</package>

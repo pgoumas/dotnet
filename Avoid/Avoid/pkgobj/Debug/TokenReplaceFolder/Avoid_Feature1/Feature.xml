@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="ab664ee7-e805-4d3e-90da-0d4668993b9e" Scope="Site" Title="Avoid Feature1">
+  <ElementManifests>
+    <ElementManifest Location="VisualWebPart1\Elements.xml" />
+    <ElementFile Location="VisualWebPart1\VisualWebPart1.webpart" />
+  </ElementManifests>
+</Feature>

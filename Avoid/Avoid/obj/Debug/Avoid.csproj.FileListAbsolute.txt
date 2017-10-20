@@ -1,0 +1,4 @@
+c:\users\pantelis.goumas\documents\visual studio 2013\Projects\Avoid\Avoid\bin\Debug\Avoid.dll
+c:\users\pantelis.goumas\documents\visual studio 2013\Projects\Avoid\Avoid\bin\Debug\Avoid.pdb
+c:\users\pantelis.goumas\documents\visual studio 2013\Projects\Avoid\Avoid\obj\Debug\Avoid.dll
+c:\users\pantelis.goumas\documents\visual studio 2013\Projects\Avoid\Avoid\obj\Debug\Avoid.pdb
